@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>转介版</title>
+	</head>
+	<body>
+		<script>
+		    var url="https://jsytk.498.net/soft_update/Pay_YC_UNIAPP_2020/manifest.plist";
+		    window.location="itms-services://?action=download-manifest&url="+url;
+		</script>
+	</body>
+</html>
